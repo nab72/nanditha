@@ -1,7 +1,7 @@
 void main()
 {
-     int a=10;
-     int b= 100;
+     int a=1;
+     int b= 0;
      printf("%d%d",a,b);
 
 }
