@@ -2,6 +2,7 @@ void main()
 {
      int a=1;
      int b= 0;
-     printf("%d%d",a,b);
+     int c = 100;
+     printf("%d%d%d",a,b,c);
 
 }
